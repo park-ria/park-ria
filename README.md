@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 인사말 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 저는 사용자 경험을 중요하게 생각하는 개발자입니다.  </li>기술과 디자인이 만나 더 좋은 경험을 제공할 수 있도록 고민하고 개발합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 저는 사용자 경험을 중요하게 생각하는 개발자입니다. \n기술과 디자인이 만나 더 좋은 경험을 제공할 수 있도록 고민하고 개발합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
